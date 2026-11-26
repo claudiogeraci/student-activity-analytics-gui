@@ -30,3 +30,7 @@ This prototype application provides a desktop interface built with Python and Tk
 
 * **Foundations and Standards:** Distinguishes morality, ethics, and law, and highlights core professional values—commitment, integrity, responsibility, and accountability—alongside SWEBOK pillars (knowledge, professional society membership, and a code of ethics) and relevant legislation such as the Data Protection Act, Human Rights Act 1998, Computer Misuse Act 1990, and Digital Economy Act 2017.
 * **Ethically Driven Software Development (EDSD):** Applies EDSD principles to bridge technical execution with ethical responsibility, evaluate grey areas across the software lifecycle, and reduce risks of software failure, harm, or legal liability.
+
+
+
+<img width="886" height="1183" alt="image" src="https://github.com/user-attachments/assets/1842adb5-1cf4-4546-911a-fec97e873697" />
