@@ -33,4 +33,11 @@ This prototype application provides a desktop interface built with Python and Tk
 
 
 
+
+
+
+
+
+
+
 <img width="886" height="1183" alt="image" src="https://github.com/user-attachments/assets/1842adb5-1cf4-4546-911a-fec97e873697" />
